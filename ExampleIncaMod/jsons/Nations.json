@@ -10,31 +10,32 @@
 		"startIntroPart1": "Eternal glory and praise for you, fierce and vengeful Warrior Queen! In a time dominated by men, you not only secured your throne and sovereign rule, but also successfully defied the power of the Roman Empire. After suffering terrible punishment and humiliation at the hand of the Roman invaders, you rallied your people in a bloody and terrifying revolt. Legions fell under your chariot wheels and the city of London burned. While in the end the Romans retained ownership of the isles, you alone made Nero consider withdrawing all troops and leaving Briton forever.",
 		"startIntroPart2": "Oh sleeping lioness, your people desire that you rise and lead them again in the calling that is your namesake. Will you meet their challenge on the open field and lead the Celts to everlasting victory? Will you restore your lands and build an empire to stand the test of time?",
 		
-		"declaringWar":"Resistance is futile! You cannot hope to stand against the mighty Incan empire. If you will not surrender immediately, then prepare for war!",
+		"declaringWar":"I've been watching you, you devious pigs! To guard patriots! March to war!",
 		"attacked":"How dare you! I will be the one owning your head.",
 		"defeated":"Evil King! You realized that you won this war in name only?",
 		"introduction":"I am Boudicca, Queen of the Celts and nobody better try rushing me!",
 		
-		"neutralHello":"How are you doing?",
-		"neutralLetsHearIt":["Go on.","We are all ears.","You may begin."],
-		"neutralNo":["We absolutely refuse.","No.","I refuse."],
-		"neutralYes":["Yes.","Of course, yes.","That is very good."],
+		"neutralHello":"God has given good to you.",
+		"neutralLetsHearIt":["Go on.","We are all ears.","Forward."],
+		"neutralNo":["We must refuse.","No.","We refuse."],
+		"neutralYes":["Accepted.","Okay.","Sure."],
 
-		"hateHello":"What do you want now?",
-		"hateLetsHearIt":["Speak!","What do you say?","Go on."],
-		"hateNo":["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes":["That is fine.","That is good enough.","Very well..."],
+		"hateHello":"Well?",
+		"hateLetsHearIt":["Speak!","Forward! Before i change my mind.","And?"],
+		"hateNo":["Thousand times no!","That's unnaceptabble!","Never!"],
+		"hateYes":["Eugh! Fine then...","But if i have to...","Very well..."],
 		
-		"afterPeace":"Viracocha has frowned upon our war, and has agreed to our peace agreements.",
-		"tradeRequest":"The Incan people offer this fair trade.",
+		"afterPeace":["Good play, fellow warrior."],
+		"tradeRequest":["Let us unite our armies, and profit from the challenges."],
 				
-		"outerColor":[255,255,51],
-		"innerColor":[0,204,102],
-		"uniqueName":"Great Andean Road",
-		"unique":"GREAT_ANDEAN_ROAD",
-		"cities":["Cuzco","Tiwanaku","Machu","Ollantaytambo","Corihuayrachina","Huamanga","Rumicucho","Vilcabamba","Vitcos",
-			"Andahuaylas","Ica","Arequipa","Nasca","Atico","Juli","Chuito","Chuquiapo","Huanuco Pampa","Tamboccocha",
-			"Huaras","Riobamba","Caxamalca","Sausa","Tambo Colorado","Huaca","Tumbes","Chan Chan","Sipan","Pachacamac",
-			"Llactapata","Pisac","Kuelap","Pajaten","Chucuito","Choquequirao"]
+		"outerColor":[22,101,63],
+		"innerColor":[148,170,255],
+		"uniqueName":"Druidic Lore",
+		"unique":"DRUIDIC_LORE",
+		"cities":["Edinburgh","Dublin","Cardiff","Truro","Nantes","Douglas","Glasgow","Cork","Aberystwyth",
+			  "Penzance","Rennes","Ramsey","Inverness","Limerick","Swansea","St. Ives","Brest","Peel",
+			  "Aberdeen","Belfast","Caernafon","Newquay","Saint-Nazarre","Castletown","Stirling","Galway",
+			  "Conwy","St. Austell","Saint-Malo","Onchan","Londonderry","Llanfairpwllgwyngyll","Falmouth",
+			  "Lorient"]
 	}
 ]
