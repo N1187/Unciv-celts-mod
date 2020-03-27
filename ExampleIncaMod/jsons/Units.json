@@ -1,18 +1,17 @@
 [
 	{
-		"name":"Slinger",
-		"unitType":"Ranged",
-		"uniqueTo":"Inca",
-		"replaces":"Archer",
+		"name":"Pictish Warrior",
+		"unitType":"Melee",
+		"uniqueTo":"Celts",
+		"replaces":"Spearman",
 		"movement":2,
-		"strength":4,
-		"rangedStrength":7,
-		"cost":40,
+		"strength":11,
+		"cost":56,
 		"hurryCostModifier":20,
-		"requiredTech":"Archery",
-		"obsoleteTech":"Machinery",
-		"upgradesTo":"Crossbowman",
-		"uniques":["May withdraw before melee"],
-		"attackSound":"arrow"
+		"requiredTech":"Bronze Working",
+		"obsoleteTech":"Civil Service",
+		"upgradesTo":"Pikeman",
+		"uniques":["No movement cost to pillage."],
+		"attackSound":"metalhit"
 	}
 ]
