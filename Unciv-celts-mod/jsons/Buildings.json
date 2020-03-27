@@ -1,16 +1,16 @@
 [
-
-        {
-              "name": "Ceilidh Hall",
-              "replaces": "Opera House",
-              "uniqueTo": "Celts",
-              "happiness": 3,
-              "culture": 1,
-              "specialistSlots": {"culture": 1},
-              "hurryCostModifier": 25,
-              "requiredBuilding": "Temple",
-              "maintenance": 2,
-              "requiredTech": "Acoustics"
-               
-             
-           
+      {
+            "name": "Ceilidh Hall",
+            "replaces": "Opera House",
+            "uniqueTo": "Celts",
+            "happiness": 3,
+            "culture": 1,
+            "specialistSlots": {
+                  "culture": 1
+            },
+            "hurryCostModifier": 25,
+            "requiredBuilding": "Temple",
+            "maintenance": 2,
+            "requiredTech": "Acoustics"
+      }
+]
