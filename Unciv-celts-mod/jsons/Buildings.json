@@ -8,6 +8,7 @@
             "specialistSlots": {
                   "culture": 1
             },
+            "cost": 250,
             "hurryCostModifier": 25,
             "requiredBuilding": "Temple",
             "maintenance": 2,
